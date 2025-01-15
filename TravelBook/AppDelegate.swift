@@ -7,6 +7,8 @@
 
 import UIKit
 import CoreData
+import MapKit
+import CoreLocation
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
